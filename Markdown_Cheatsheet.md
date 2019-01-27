@@ -150,7 +150,7 @@ There is **Inline-style**, which points directly to image and includes alt text:
 
 Then, there is **Reference-style**, where I can refer to an image aliased elsewhere in the markdown:
 
-\![alt text][myalias]
+\![alt text]\[myalias]
 
 \[myalias]: https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png "Logo Title Text 2"
 
