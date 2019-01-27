@@ -144,9 +144,7 @@ Here's an image, and if hover over with your mouse, you see the title text):
 
 There is **Inline-style**, which points directly to image and includes alt text:
 
-\![alt text]
-\(https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png 
-\"Alternate Title Text 1")
+\![alt text] (https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png "Alternate Title Text 1")
 
 ![alt text](https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png "Alternate Title Text 1")
 
@@ -154,7 +152,7 @@ Then, there is **Reference-style**, where I can refer to an image aliased elsewh
 
 \![alt text][myalias]
 
-\[myalias]: https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png "Logo \Title Text 2"
+\[myalias]: https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png "Logo Title Text 2"
 
 ![alt text][myalias]
 
