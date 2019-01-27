@@ -122,13 +122,13 @@ which renders like this:
 Here's an image, and if hover over with your mouse, you see the title text):
 
 Inline-style, which points directly to image and includes alt text:
-![alt text](https://imageurl "Alternate Title Text 1")
+![alt text](https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png "Alternate Title Text 1")
 
 Reference-style, where I can refer to an image aliased elsewhere in the markdown:
 
 ![alt text][myalias]
 
-[myalias]: https://imageurl "Logo Title Text 2"
+[myalias]: https://raw.githubusercontent.com/pzerger/cheatsheets/master/azure.png "Logo Title Text 2"
 
 [back to top](#markdown-cheat-sheet)
 # Code 
