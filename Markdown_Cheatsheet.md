@@ -1,10 +1,10 @@
-# Markdown cheat sheet
+# Markdown Cheat Sheet
 
 This is a concise and easy-to-navigate markdown cheat sheet. The list covers markdown in general, but also includes some  Github Flavored Markdown (GFM) where GFM is a bit different from standard markdown.
 
 # Table of Contents
 
-- [Markdown cheat sheet](#markdown-cheat-sheet)
+- [Markdown Cheat Sheet](#markdown-cheat-sheet)
 - [Table of Contents](#table-of-contents)
 - [Headers](#headers)
 - [H1](#h1)
