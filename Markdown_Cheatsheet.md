@@ -1,5 +1,3 @@
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code
-
 #Markdown cheat sheet
 _This is a concise and easy-to-navigate markdown cheat sheet. list covers markdown in general, but makes occasional reference to Github Flavored Markdown (GFM) where GFM differs from standard markdown.
 [Headers](#headers)
