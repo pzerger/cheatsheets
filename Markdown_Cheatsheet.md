@@ -1,14 +1,24 @@
 #Markdown cheat sheet
 _This is a concise and easy-to-navigate markdown cheat sheet. list covers markdown in general, but makes occasional reference to Github Flavored Markdown (GFM) where GFM differs from standard markdown.
+
 [Headers](#headers)
+
 [Lists](#lists)
+ 
 [Hyperlinks](#hyperlinks)
+
 [Blockquotes](#blockquotes)
+
 [Tables](#tables) 
+
 [Images](#images) 
+
 [Code](#code) 
+
 [Line Breaks](#line-breaks)
+
 [Horizontal Rule](#horizontal-rule)
+
 [Inline HTML](#inline-html)
 
 # Headers
