@@ -152,15 +152,21 @@ print ps
 ```
 
 \```javascript
+
 var js = "string in a JavaScript varible";
+
 print js;
+
 \```
 
 which renders like this:
 
 ```javascript
+
 var js = "string in a JavaScript varible";
+
 print js;
+
 ```
 
 [back to top](#markdown-cheat-sheet)
@@ -169,7 +175,9 @@ print js;
 [back to top](#markdown-cheat-sheet)
 # Horizontal Rule 
 A horizontal rule is a grey line. You can add a horizontal rule using three asterisks or three dashes.
+
 \***
+
 \---
 
 [back to top](#markdown-cheat-sheet)
