@@ -11,13 +11,20 @@ _This is a concise and easy-to-navigate markdown cheat sheet. list covers markdo
 [Horizontal Rule](#horizontal-rule)
 [Inline HTML](#inline-html)
 
-Headers
+# Headers
+
 \# H1
+
 \## H2
+
 \### H3
+
 \#### H4
+
 \##### H5
+
 \###### H6
+
 
 # H1
 ## H2
