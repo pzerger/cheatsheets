@@ -140,8 +140,11 @@ Blocks of code are either fenced by lines with three back-ticks ```
 Github Flavored Markdown supports highlighting language-specific formatting for a _very_ long list of languages known to Github, listed HERE https://github.com/github/linguist/blob/master/lib/linguist/languages.yml. 
 
 \```python
+
 ps = "string in a Python varible"
+
 print ps
+
 \```
 
 which renders like this:
