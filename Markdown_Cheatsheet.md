@@ -137,7 +137,7 @@ Inline `code` has `back-ticks around` it.
 
 Blocks of code are either fenced by lines with three back-ticks ```
 
-Github Flavored Markdown supports highlighting language-specific formatting for a _very_ long list of languages known to Github, listed HERE https://github.com/github/linguist/blob/master/lib/linguist/languages.yml. 
+Github Flavored Markdown supports highlighting language-specific formatting for a _very_ long list of languages known to Github, listed HERE https://github.com/github/linguist/blob/master/lib/linguist/languages.yml. Just a couple of examples:
 
 \```python
 
