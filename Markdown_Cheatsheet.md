@@ -49,6 +49,8 @@ This is a concise and easy-to-navigate markdown cheat sheet. The list covers mar
 ##### H5
 ###### H6
 
+[back to top](#markdown-cheat-sheet)
+
 # Formatting / Emphasis
 ```
 Italic - use *asterisks* or _underscores_.
