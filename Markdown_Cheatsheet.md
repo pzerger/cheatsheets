@@ -93,13 +93,20 @@ which renders like this:
    * Unordered sublist item. 
 
 [back to top](#markdown-cheat-sheet)
+
 # Hyperlinks 
+
 There are several types of links:
+
 [inline-style link](https://www.msdn.com)
 
 [I'm an inline-style link with title](https://www.msdn.com "MSDN homepage")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[I'm a reference-style link][arbitrary case-insensitive reference text]
+
+\[I'm a relative reference to a repository file](azure.png)
+
+which renders like this:
 
 [I'm a relative reference to a repository file](azure.png)
 
