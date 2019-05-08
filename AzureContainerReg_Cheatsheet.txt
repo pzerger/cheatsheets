@@ -1,0 +1,25 @@
+# Azure Container Registry Cheat Sheet 
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli
+https://docs.microsoft.com/en-us/cli/azure/acr?view=azure-cli-latest 
+Run the container locally
+docker run -it --rm -p 8080:80 nginx
+
+Create an alias of the image
+docker tag nginx aifoundry.azurecr.io/samples/nginx
+docker tag nginx aifoundry.azurecr.io/samples/postgres
+
+Push the image into your registry
+docker push aifoundry.azurecr.io/samples/nginx
+docker push aifoundry.azurecr.io/samples/postgres
+
+Pull the image from your registry
+docker pull aifoundry.azurecr.io/samples/nginx
+
+Start the Ngnix container 
+docker run -it --rm -p 8080:80 aifoundry.azurecr.io/samples/nginx
+
+Delete the image locally
+docker rmi aifoundry.azurecr.io/samples/nginx
+
+Remove from the Azure COntainer Registry
+az acr repository delete --name aifoundry --repository samples/nginx --tag latest --manifest
