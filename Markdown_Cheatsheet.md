@@ -58,10 +58,13 @@ Use the 'Table of Contents' and 'back to top' links to navigate this document qu
 
 # Formatting / Emphasis
 
-\Italic - use *asterisks* or _underscores_.
-\Bold - use double **asterisks** or __underscores__.
-\Combined emphasis - use **asterisks and _underscores_** together.
-\Strikethrough uses two tildes. ~~nevermind, scratch that.~~
+``Italic - use *asterisks* or _underscores_.``
+
+``Bold - use double **asterisks** or __underscores__.``
+
+``Combined emphasis - use **asterisks and _underscores_** together.``
+
+``Strikethrough uses two tildes. ~~nevermind, scratch that.~~``
 
 
 Italic - use *asterisks* or _underscores_.
