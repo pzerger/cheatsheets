@@ -14,15 +14,6 @@ This is a concise and easy-to-navigate markdown cheat sheet. The list covers mar
         - [H5](#h5)
           - [H6](#h6)
 - [Formatting / Emphasis](#formatting--emphasis)
-- [Lists](#lists)
-    - [Numbered Lists](#numbered-lists)
-    - [Unordered Lists](#unordered-lists)
-    - [Mixing Ordered and Unordered Lists](#mixing-ordered-and-unordered-lists)
-- [Hyperlinks](#hyperlinks)
-- [Blockquotes](#blockquotes)
-- [Tables](#tables)
-- [Images](#images)
-- [Code](#code)
 - [Line Breaks](#line-breaks)
 - [Horizontal Rule](#horizontal-rule)
 - [Inline HTML](#inline-html)
@@ -128,15 +119,19 @@ and this is what it looks like:
 
 [back to top](#markdown-cheat-sheet)
 # Tables 
-Tables are supported by GFM, but are not part of basic Markdown. You can use colons to align your table columns, as shown below. Note the single right colon in column 2 means right-aligned, the colons to left and right of column 4 means center-aligned. Column 1 is lef-aligned (the default).
+Tables are supported by GFM, but are not part of basic Markdown. You can use colons to align your table columns, as shown below. Note the single right colon in column 2 means right-aligned, the colons to left and right of column 4 means center-aligned. Column 1 is left-aligned (the default).
 
 \| Column 1      | Column 2        | Column 3   |
+
 \| ------------- |---------------: | :--------: |
+
 \| col 3 is      | center-aligned  | test       |
+
 \| col 2 is      | right-aligned   | dev        |
+
 \| col 1 is      | left-aligned    | prod       |
 
-which renders like this: 
+which renders like this:
 
 | Column 1      | Column 2        | Column 3   |
 | ------------- |---------------: | :--------: |
