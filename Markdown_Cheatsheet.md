@@ -66,6 +66,7 @@ Use the 'Table of Contents' and 'back to top' links to navigate this document qu
 
 ``Strikethrough uses two tildes. ~~nevermind, scratch that.~~``
 
+And these render as follows:
 
 Italic - use *asterisks* or _underscores_.
 
