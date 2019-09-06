@@ -19,6 +19,15 @@ Use the 'Table of Contents' and 'back to top' links to navigate this document qu
         - [H5](#h5)
           - [H6](#h6)
 - [Formatting / Emphasis](#formatting--emphasis)
+- [Lists](#lists)
+    - [Numbered Lists](#numbered-lists)
+    - [Unordered Lists](#unordered-lists)
+    - [Mixing Ordered and Unordered Lists](#mixing-ordered-and-unordered-lists)
+- [Hyperlinks](#hyperlinks)
+- [Blockquotes](#blockquotes)
+- [Tables](#tables)
+- [Images](#images)
+- [Code](#code)
 - [Line Breaks](#line-breaks)
 - [Horizontal Rule](#horizontal-rule)
 - [Inline HTML](#inline-html)
@@ -48,19 +57,19 @@ Use the 'Table of Contents' and 'back to top' links to navigate this document qu
 [back to top](#markdown-cheat-sheet)
 
 # Formatting / Emphasis
-```
-Italic - use *asterisks* or _underscores_.
 
-Bold - use double **asterisks** or __underscores__.
+\Italic - use *asterisks* or _underscores_.
+\Bold - use double **asterisks** or __underscores__.
+\Combined emphasis - use **asterisks and _underscores_** together.
+\Strikethrough uses two tildes. ~~nevermind, scratch that.~~
 
-Combined emphasis - use **asterisks and _underscores_** together.
-
-Strikethrough uses two tildes. ~~nevermind, scratch that.~~
- ```
 
 Italic - use *asterisks* or _underscores_.
+
 Bold - use **asterisks** or __underscores__.
+
 Combined emphasis - use **asterisks and _underscores_** together.
+
 Strikethrough uses two tildes. ~~nevermind, scratch that.~~
 
 [back to top](#markdown-cheat-sheet)
