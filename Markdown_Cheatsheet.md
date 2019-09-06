@@ -1,6 +1,11 @@
 # Markdown Cheat Sheet
 
-This is a concise and easy-to-navigate markdown cheat sheet. The list covers markdown in general, but also includes some  Github Flavored Markdown (GFM) where GFM is a bit different from standard markdown.
+This is a concise and easy-to-navigate markdown cheat sheet. The list covers markdown in general, but also includes some  Github Flavored Markdown (GFM) where GFM is a bit different from standard markdown. For each markdown style, you will see two entries:
+
+- The first entry shows the syntax for the given style
+- The second shows how the syntax renders in a browser
+
+Use the 'Table of Contents' and 'back to top' links to navigate this document quickly and easily.
 
 # Table of Contents
 
